@@ -1,4 +1,4 @@
-function U5_problema1
+function U5_problema3
 % ME3130: Mecánica Estática
 % Departamento de Ingeniería Mecánica
 % Universidad de Chile
@@ -8,7 +8,7 @@ function U5_problema1
 % Web      : https://camlab.cl/alejandro/
 %
 %-------------------------------------------------------------------------------
-% Solución: Problema 1.
+% Solución: Problema 3.
 % Unidad 5: Fuerzas y Momentos Internos.
 %------------------------------------------------------------------------------- 
   clc
