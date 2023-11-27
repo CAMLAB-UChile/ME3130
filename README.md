@@ -1,7 +1,7 @@
 # ME3130 (Mecánica Estática): Teoría y Problemas Resueltos
 Curso perteneciente al programa de Ingeniería Civil Mecánica, que es impartido por el Departamento de Ingeniería Mecánica de la Universidad de Chile.
 
-Las carpetas "Unidad1", "Unidad2", "Unidad3", "Unidad4", "Unidad5" y "Unidad6" contienen programas MATLAB y/o archivos de MATLAB Live correspondientes a los problemas resueltos.
+Las carpetas "Unidad1", "Unidad2", "Unidad3", "Unidad4", "Unidad5" y "Unidad6" contienen programas MATLAB y/o archivos de MATLAB Live correspondientes a los problemas resueltos y a otros archivos de apoyo docente.
 
 La carpeta "doc" contiene las diapositivas del curso y problemas resueltos en formato PDF.
 
